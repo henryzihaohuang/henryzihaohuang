@@ -1,11 +1,7 @@
-### Hi there 👋
-
-<!--
-**henryzihaohuang/henryzihaohuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Henry Zihao Huang
 
-### 💬  Hi, nice to meet you.
+### 💬  Hi there! Nice to meet you!
 ```console
 * I'm a frontend enthusiast and lifelong learner
 * A polyglot who speaks 4.5 languages
