@@ -2,23 +2,18 @@
 # Henry Zihao Huang
 
 ### 💬  Hi, nice to meet you!
-```console
 * I'm a full-stack engineer and design enthusiast
 * A polyglot who speaks 4.5 languages
 * A vinyasa yoga teacher
-```
+
 
 ### 🌱  Currently working on
-```console
 * [GreenMile](https://greenmile-aa.herokuapp.com/)
-```
 
 ### 👯 Recent projects
-```console
 * [Lost in Translation](https://henryzihaohuang.github.io/lost_in_translation/) 
 * [GreenMile](https://greenmile-aa.herokuapp.com/)
 * [Backpackr](https://backpackr-aa.herokuapp.com/)
-```
 
 ---
 
