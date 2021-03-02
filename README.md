@@ -1,19 +1,19 @@
 
 # Henry Zihao Huang
 
-### 💬  Hi there! Nice to meet you!
+### 💬  Hi, nice to meet you.
 ```console
-* I'm a frontend enthusiast and lifelong learner
+* I'm a full-stack engineer and design enthusiast
 * A polyglot who speaks 4.5 languages
-* A vinyasa yogi
+* A vinyasa yoga teacher
 ```
 
-### 🌱  Currently working on
+### 🌱  Currently working on:
 ```console
 * [GreenMile](https://greenmile-aa.herokuapp.com/)
 ```
 
-### 👯 Last projects
+### 👯 Recent projects:
 ```console
 * [Lost in Translation](https://henryzihaohuang.github.io/lost_in_translation/) 
 * [GreenMile](https://greenmile-aa.herokuapp.com/)
@@ -37,7 +37,7 @@
 - [ ] [The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics](https://www.hup.harvard.edu/catalog.php?isbn=9780674987555) by Ben Buchanan
 
 
-### Contacts
+### Contact
 * [Personal](http://henryzihaohuang.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/zihaohuang/)
 * zihaohenryhuang@gmail.com
