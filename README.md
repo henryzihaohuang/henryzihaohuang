@@ -4,7 +4,7 @@
 ### 💬  Hi, nice to meet you!
 * I'm a full-stack engineer and design enthusiast
 * A polyglot who speaks 4.5 languages
-* A vinyasa yoga teacher
+* A certified vinyasa yoga teacher
 
 
 ### 🌱  Currently working on
