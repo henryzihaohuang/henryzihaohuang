@@ -8,7 +8,7 @@
 
 
 ### 🌱  Currently working on
-* [GreenMile](https://greenmile-aa.herokuapp.com/)
+* Learning GraphQL / Apollo Client
 
 ### 👯 Recent projects
 * [Backpackr](https://backpackr-aa.herokuapp.com/)
