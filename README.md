@@ -8,12 +8,11 @@
 
 
 ### 🌱  Currently working on
-* Learning GraphQL / Apollo Client
+* Improving skills in GraphQL / Apollo Client
+* Protect Our Elders - Project on safeguarding elders in the Asian-Am community by providing volunteer chaperones on their commutes.
 
 ### 👯 Recent projects
 * [Backpackr](https://backpackr-aa.herokuapp.com/)
-* [GreenMile](https://greenmile-aa.herokuapp.com/)
-* [Lost in Translation](https://henryzihaohuang.github.io/lost_in_translation/) 
 
 ---
 
