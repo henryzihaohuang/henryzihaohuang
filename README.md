@@ -1,5 +1,5 @@
 
-# Henry Zihao Huang
+# Henry Zihao Huang (he/him)
 [https://henryzihaohuang.github.io/](https://henryzihaohuang.github.io/)
 
 ### 💬  Hi, nice to meet you!
@@ -16,7 +16,7 @@
 
 ---
 
-### :books: Books to read
+### :books: Reads
 - [x] [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan
 - [x] [The Mom Test: How to Talk to Customers and Learn If Your Business is a Good Idea when Everyone is Lying to You](https://www.goodreads.com/book/show/52283963-the-mom-test?from_search=true&from_srp=true&qid=jBkdaaD0bL&rank=1) by Rob Fitzpatrick
 - [x] [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/B013UWFM52/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Cal Newport
