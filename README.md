@@ -25,7 +25,7 @@
 - [ ] [The Compound Effect](https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X) by Darren Hardy
 
 
-### Contact
+### 📫 How to reach me
 * [LinkedIn](https://www.linkedin.com/in/zihaohuang/)
 * zihaohenryhuang@gmail.com
 
