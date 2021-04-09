@@ -14,6 +14,12 @@
 ### 👯 Recent projects
 * [Backpackr](https://backpackr-aa.herokuapp.com/)
 
+
+### 📫 How to reach me
+* [LinkedIn](https://www.linkedin.com/in/zihaohuang/)
+* zihaohenryhuang@gmail.com
+
+
 ---
 
 ### :books: Reads
@@ -24,9 +30,5 @@
 - [ ] [The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics](https://www.hup.harvard.edu/catalog.php?isbn=9780674987555) by Ben Buchanan
 - [ ] [The Compound Effect](https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X) by Darren Hardy
 
-
-### 📫 How to reach me
-* [LinkedIn](https://www.linkedin.com/in/zihaohuang/)
-* zihaohenryhuang@gmail.com
 
 
