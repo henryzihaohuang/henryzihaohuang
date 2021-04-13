@@ -1,5 +1,5 @@
 
-# Henry Zihao Huang (he/him)
+# Henry Zihao Huang (he/him/él/他)
 [https://henryzihaohuang.github.io/](https://henryzihaohuang.github.io/)
 
 ### 💬  Hi, nice to meet you!
