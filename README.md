@@ -10,10 +10,8 @@
 * A certified vinyasa yoga teacher
 
 
-### 🌱  Currently working on
+### 🌱 Recent projects
 * [Protect Our Elders](https://protect-our-elders.herokuapp.com/) - Group project on safeguarding elders in the Asian-Am community by providing volunteer chaperones on their commutes.
-
-### 👯 Recent projects
 * [Backpackr](https://backpackr-aa.herokuapp.com/)
 
 
