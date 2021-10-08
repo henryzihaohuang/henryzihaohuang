@@ -11,8 +11,8 @@
 
 
 ### 🌱 Recent projects
-* [Protect Our Elders](https://protect-our-elders.herokuapp.com/) - Group project on safeguarding elders in the Asian-Am community by providing volunteer chaperones on their commutes.
-* [Backpackr](https://backpackr-aa.herokuapp.com/)
+* [Protect Our Elders](https://protect-our-elders.herokuapp.com/) - A project on safeguarding elders in the Asian-Am community by providing volunteer chaperones on their commutes.
+* [Backpackr](https://backpackr-aa.herokuapp.com/) - A MERN stack application for planning group travel.
 
 
 ### 📫 How to reach me
