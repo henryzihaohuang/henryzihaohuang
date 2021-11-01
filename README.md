@@ -6,13 +6,16 @@
 
 ### 💬  Hi, nice to meet you!
 * I'm a full-stack engineer and design enthusiast
-* A polyglot who speaks 4.5 languages
-* A certified vinyasa yoga teacher
+* A polyglot who speaks computer languages too (Ruby, Javascript primarily)
+* A yoga guy
 
 
 ### 🌱 Recent projects
-* [Protect Our Elders](https://protectourelders.herokuapp.com/) - A project on safeguarding elders in the Asian-Am community by providing volunteer chaperones.
-* [Backpackr](https://backpackr-aa.herokuapp.com/) - A MERN stack application for planning group travel.
+* [Protect Our Elders](https://protectourelders.herokuapp.com/) - 
+A project on safeguarding elders in the Asian-Am community by providing volunteer chaperones.
+
+* [Backpackr](https://backpackr-aa.herokuapp.com/) -
+ A MERN stack application for planning group travel.
 
 
 ### 📫 How to reach me
