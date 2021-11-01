@@ -5,7 +5,7 @@
 [https://henryzihaohuang.github.io/](https://henryzihaohuang.github.io/)
 
 ### 💬  Hi, nice to meet you!
-* I'm a full-stack engineer and design enthusiast
+* I'm a full-stack engineer and architecture enthusiast
 * A polyglot who speaks computer languages too (Ruby, Javascript primarily)
 * A yoga guy
 
