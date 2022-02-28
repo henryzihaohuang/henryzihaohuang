@@ -5,7 +5,7 @@
 [https://henryzihaohuang.github.io/](https://henryzihaohuang.github.io/)
 
 ### 💬  Nice to meet you:
-* I'm a full-stack engineer and architecture enthusiast
+* I'm a full-stack engineer working with ruby, graqphQL, reactJS
 * A polyglot who speaks computer languages too (Ruby, Javascript primarily)
 * Ashtanga/Vinyasa yogi
 
