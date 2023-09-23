@@ -11,7 +11,7 @@
 
 ### 🌱 Projects:
 * [Protect Our Elders](https://protectourelders.herokuapp.com/) - 
-A project on safeguarding elders in the Asian-Am community by providing volunteer chaperones.
+A project on safeguarding elders in NYC Chinatown by providing volunteer chaperones.
 * [Backpackr](https://backpackr-aa.herokuapp.com/) -
  A MERN stack application for planning group travel.
 
