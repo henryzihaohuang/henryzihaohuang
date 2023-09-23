@@ -5,7 +5,6 @@
 [https://henryzihaohuang.github.io/](https://henryzihaohuang.github.io/)
 
 ### 💬  Nice to meet you:
-* I'm a full-stack engineer working with ruby, graqphQL, reactJS
 * A polyglot who speaks computer languages too (Ruby, Javascript primarily)
 * Ashtanga/Vinyasa yogi
 
@@ -17,16 +16,6 @@ A project on safeguarding elders in the Asian-Am community by providing voluntee
  A MERN stack application for planning group travel.
 
 
-### 📫 How to reach me:
-* [LinkedIn](https://www.linkedin.com/in/zihaohuang/)
-
----
-
-### :books: New reads:
-- [x] [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/B013UWFM52/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Cal Newport
-- [x] [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/dp/B0055PGUYU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Charles Duhigg
-- [ ] [The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics](https://www.hup.harvard.edu/catalog.php?isbn=9780674987555) by Ben Buchanan
-- [ ] [The Compound Effect](https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X) by Darren Hardy
 
 
 
